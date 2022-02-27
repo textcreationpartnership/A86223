@@ -1,0 +1,556 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Newes newly discovered, in a pleasant dialo[g]ue betwixt Papa the false Pope, and Benedict an honest Fryer, shewing the merry conceits which the Friers have in their cloysters amongst handsome Nuns, and how the Pope complains for want of that pastime, with the many shifts of his friends in England. / By Thomas Herbert.</title>
+            <author>Herbert, Thomas, 1597-1642?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86223</idno>
+            <idno type="STC">Wing H1530</idno>
+            <idno type="STC">Thomason E1102_3</idno>
+            <idno type="STC">ESTC R208346</idno>
+            <idno type="EEBO-CITATION">99867303</idno>
+            <idno type="PROQUEST">99867303</idno>
+            <idno type="VID">169396</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A86223)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169396)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 163:E1102[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Newes newly discovered, in a pleasant dialo[g]ue betwixt Papa the false Pope, and Benedict an honest Fryer, shewing the merry conceits which the Friers have in their cloysters amongst handsome Nuns, and how the Pope complains for want of that pastime, with the many shifts of his friends in England. / By Thomas Herbert.</title>
+                  <author>Herbert, Thomas, 1597-1642?</author>
+               </titleStmt>
+               <extent>[16] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for I. Wright,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With title page woodcut.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Signatures: A.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catholics --  England --  Humor --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:169396:1" rendition="simple:additions"/>
+            <p>NEWES Newly Diſcovered, In a pleaſant Dialo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ue betwixt <hi>Papa</hi> the falſe Pope, and <hi>Benedict</hi> an honeſt Fryer, ſhewing the merry conceits which the Friers h<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ve in their Cloyſters amongſt handſome Nuns, and how the Pop<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> complains for want of that pa<g ref="char:EOLhyphen"/>ſtime, wi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h the many ſhifts of his friends in England.</p>
+            <p>By <hi>Thomas Herbert.</hi>
+            </p>
+            <figure>
+               <figDesc>depiction of two men engaged in conversation</figDesc>
+            </figure>
+            <p>Printed for J. Wright. 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:169396:2"/>
+            <pb facs="tcp:169396:2"/>
+            <head>A DIALOGVE Betwixt the falſe POPE and the honeſt FRIER.</head>
+            <head type="sub">OR, Papa and Benedict.</head>
+            <sp>
+               <speaker>Papa.</speaker>
+               <p>HOw fareſt thou <hi>Benedict?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Fri,</speaker>
+               <p>Father <hi>Pope,</hi> how can I doe otherwiſe then well, ha<g ref="char:EOLhyphen"/>ving ſo many handſome, curious com<g ref="char:EOLhyphen"/>pleat and beautifull Nuns in my Cloy<g ref="char:EOLhyphen"/>ſter?</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>Why, haſt thou ſo good em<g ref="char:EOLhyphen"/>ployment there?</p>
+            </sp>
+            <sp>
+               <speaker>Fri.</speaker>
+               <p>I have the rareſt, neateſt and compleateſt ſhriving, that ſince Saint
+<pb facs="tcp:169396:3"/> 
+                  <hi>Dunſtans</hi> time there hath not beene bet<g ref="char:EOLhyphen"/>ter.</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>Doe they confeſſe well?</p>
+            </sp>
+            <sp>
+               <speaker>Fry,</speaker>
+               <p>Confeſſe well! I and hang well, I mean their Beads about their necks: Oh, were you but in my place, you would exchange three Crownes for a Fryerſhip.</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>I was a Fryer one time, and then I had ſuch employment, which to thinke of almoſt makes me out of my wits.</p>
+            </sp>
+            <sp>
+               <speaker>Fry.</speaker>
+               <p>I hope not ſo.</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>Yes, that I am.</p>
+            </sp>
+            <sp>
+               <speaker>Fry.</speaker>
+               <p>Your reaſon for't?</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>O my brave Fryer, becauſe I have no ſuch employment now.</p>
+            </sp>
+            <sp>
+               <speaker>Fry.</speaker>
+               <p>Faith Sir, I thinke that your Siſter Pope <hi>Ioane</hi> had ſo much, that never a Pope ſince could get any.</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>No! by Saint <hi>Peters</hi> Chaire you have the onely time of it now.</p>
+            </sp>
+            <sp>
+               <speaker>Fry.</speaker>
+               <p>Wee Fryers and Jeſuites are bound to thank your Holineſſes Par<g ref="char:EOLhyphen"/>dons for't.</p>
+            </sp>
+            <sp>
+               <pb facs="tcp:169396:3"/>
+               <speaker>Pap.</speaker>
+               <p>But (I hope) you will let me part ſtake with you ſometimes.</p>
+            </sp>
+            <sp>
+               <speaker>Fri.</speaker>
+               <p>As for my part, you never found, me backward.</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>I muſt confeſſe I have not<g ref="char:punc">▪</g> but faith tell me <hi>Benedict,</hi> how many Pardons haſt thou bought of mee this yeare;</p>
+            </sp>
+            <sp>
+               <speaker>Frier.</speaker>
+               <p>Truly, I muſt confeſſe I have bought but few, but you have given mee many; I would two or three of my friends in England had had ſome of them.</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>Why be there any there which ſtand in need of them?</p>
+            </sp>
+            <sp>
+               <speaker>Fri.</speaker>
+               <p>There was a good man as I heard lately was like to take accquaintance wiih a thing cal'd Tiburne without one.</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>They would not dare to doe it ſure.</p>
+            </sp>
+            <sp>
+               <speaker>Fri</speaker>
+               <p>What is that they dare not to doe? Faith, in a ſmall time you are like to have very few friends there.</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>Why, what's the reaſon?</p>
+            </sp>
+            <sp>
+               <pb facs="tcp:169396:4"/>
+               <speaker>Fry.</speaker>
+               <p>Becauſe they are like to returne all home unto <hi>Rome</hi> againe.</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>What! before they have done any good there?</p>
+            </sp>
+            <sp>
+               <speaker>Fry.</speaker>
+               <p>They were in very faire way once; but now the times are altered, Fidlers goe a begging.</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>Thoſe which were the cauſe of it, I thus curſe them with Bell, Booke, and Candle, Candle, Booke, and Bell, backewardes and forewardes unto Hell.</p>
+            </sp>
+            <sp>
+               <speaker>Fry.</speaker>
+               <p>But they are ſo much bleſt in a Parliament, that I doubt me your cur<g ref="char:EOLhyphen"/>ſes will doe them very little harme.</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>No! for that word ſaucy Fry<g ref="char:EOLhyphen"/>er I curſe thee: had I my will in <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> I would make the proudeſt of them all ſtand in feare of my curſe.</p>
+            </sp>
+            <sp>
+               <speaker>Fry.</speaker>
+               <p>As for your curſing me I care not; but as for getting any will there, you are like to come far ſhort.</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>Baſe Varlet; what! turn'd He<g ref="char:EOLhyphen"/>retique?</p>
+            </sp>
+            <sp>
+               <speaker>Fry.</speaker>
+               <p>Whether I am turn'd Heretique
+<pb facs="tcp:169396:4"/> I cannot tell; but that of late I am turn'd Chriſtian I can aſſure you.</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>O that I had a Croſſe, or ſome Holy-water to defend me from thee.</p>
+            </sp>
+            <sp>
+               <speaker>Fry.</speaker>
+               <p>O that thy Croſſes with a rope were hung about thy neck, to defend all the world from thee, who by thy baſe inventions haſt hitherto cheated the whole earth.</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>O intollerable audacity! <hi>I</hi> am not able to forbeare.</p>
+            </sp>
+            <sp>
+               <speaker>Fry.</speaker>
+               <p>You meane the whole World, through your vaine and deceitfull ficti<g ref="char:EOLhyphen"/>ons.</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>
+                  <hi>I</hi> am mad.</p>
+            </sp>
+            <sp>
+               <speaker>Fry.</speaker>
+               <p>You may very well be ſo, for Pardons are like to be ſold at a very low market now; becauſe no body will buy them; men have learned wit to love money more then the Pope, in time <hi>I</hi> beleeve you will play a part of the broken Citizen, and ſo ſhut up ſhop.</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>O intollerable! thus to be deri<g ref="char:EOLhyphen"/>ded by one of my owne Livery!</p>
+            </sp>
+            <sp>
+               <pb facs="tcp:169396:5"/>
+               <speaker>Fry.</speaker>
+               <p>You are much deceiv'd Sir, time was wherein I did weare it; but ſince I have found ſo much knavery to lye hid in your Pope-ſhips boſome, I ſhooke it off.</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>And have you forgot your ho<g ref="char:EOLhyphen"/>neſt ſhrieving of Nuns?</p>
+            </sp>
+            <sp>
+               <speaker>Fry.</speaker>
+               <p>You are miſtaken in me, you thinke me to be one of Pope <hi>Ioan's</hi> or<g ref="char:EOLhyphen"/>der, which is a vice too many of you Popes and Cardinalls have beene given to, I will not excuſe the neat Cardinall in <hi>France</hi> from it.</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>Villaine, what didſt thou ever ſee by me or any of mine?</p>
+            </sp>
+            <sp>
+               <speaker>Fry.</speaker>
+               <p>Ile tell you in plaine termes Mr. Vicar Divell, reverend Pope (I would have ſaid) you are Governour of a hell of miſchiefe; you have made Rome, which once was a place of great renowne, row nought but a ſincke of wickedneſſe; inſtead of Pietie and good Religion, you plant errors and ſchiſme through the whole World, you cozen Soules of Heaven, by blin<g ref="char:EOLhyphen"/>ding
+<pb facs="tcp:169396:5"/> them with your Croſſes upon earth? what is it which makes ſo many halt betwixt two opinions, but your Popiſh damnable plots?</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>Goe on I pray, I doe intend to heare thee patiently, and anſwer thee with verity.</p>
+            </sp>
+            <sp>
+               <speaker>Fry.</speaker>
+               <p>How can the Prince of lyes ſpeake truth.</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>Why, doſt thou take me to be the Prince of lyes?</p>
+            </sp>
+            <sp>
+               <speaker>Fry.</speaker>
+               <p>If I ſhould ſay I did not, I ſhould prove my ſelfe to be a diſſem<g ref="char:EOLhyphen"/>bler like thy ſelfe.</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>Then you hold me to be adiſ<g ref="char:EOLhyphen"/>ſembler.</p>
+            </sp>
+            <sp>
+               <speaker>Fry.</speaker>
+               <p>More, Ile ſweare thee to bee one: how oft haſt thou beene guiltie of mens blood? how many Chriſtians by thee have beene tortured? whom before their torments thou haſt ſmil'd and laught on? How many cups of ve<g ref="char:EOLhyphen"/>nomous poyſon haſt thou preſented unto Kings for mornings draughts? whom not long before thou haſt pro<g ref="char:EOLhyphen"/>claymed
+<pb facs="tcp:169396:6"/> to be thy friends: but this you will ſay is no diſſembling, this you doe onely in love, becauſe they ſhould not indure any more miſeries of this World: indeed, this is true Popiſh Piety.</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>Good <hi>Ben,</hi> ſay no more, and as for what thou haſt ſaid I freely pardon.</p>
+            </sp>
+            <sp>
+               <speaker>Fry.</speaker>
+               <p>This is another Popes tricke; what he cannot by threatning, he en<g ref="char:EOLhyphen"/>deavours through cogging to obtaine. I am reſolv'd Mr. <hi>Pope</hi> to leave you, and your ſuperſtitious crew to your great Grand-father <hi>Pluto,</hi> to whom <hi>I</hi> know you ſhall in time be made very welcome: your ſeven horn'd Beaſt will wait upon you when you pleaſe, and will carry you with a great celerity.</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>You intend to leave me then and be gone?</p>
+            </sp>
+            <sp>
+               <speaker>Fry.</speaker>
+               <p>Yes faith, I am now quite wea<g ref="char:EOLhyphen"/>ry of wearing Romiſh ſheckles or Croſſes, which you pleaſe.</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>And whither I pray doe you in<g ref="char:EOLhyphen"/>tend to take your journey?</p>
+            </sp>
+            <sp>
+               <pb facs="tcp:169396:6"/>
+               <speaker>Fry.</speaker>
+               <p>Where I am ſure you dare not follow me, it is to <hi>England.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>Time hath beene Sirrah, that I have had power enough thereto ſcourge the proudeſt Heretique in the World, and may in time againe doe the like.</p>
+            </sp>
+            <sp>
+               <speaker>Fry.</speaker>
+               <p>That time will be (I beleeve) when the Devill and you are both ho<g ref="char:EOLhyphen"/>neſt together; and that I thinke will ſcarce be in haſt.</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>I had hopes enough lately of it.</p>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ry.</hi>
+               </speaker>
+               <p>Not of being honeſt I beleeve.</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>I ſay that I had hope lately to get dominion in <hi>England.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Fry.</speaker>
+               <p>Indeed I did underſtand by ſome of your friends, that through Jeſuiti<g ref="char:EOLhyphen"/>call Plots, and Projectors knavery for a time you have got a finger there: but now as I heare, that finger is like to bee cut off, not without ſome heads.</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>They dare not doe it.</p>
+            </sp>
+            <sp>
+               <speaker>Fry.</speaker>
+               <p>Yes, and yours too, were it there; which I dare be bold you will not goe venture for the gaining of ano<g ref="char:EOLhyphen"/>ther
+<pb facs="tcp:169396:7"/> Saint <hi>Peters</hi> Chaire, Keyes and all.</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>Thou talk'ſt like one of a ſhal<g ref="char:EOLhyphen"/>low braine; it is an impoſſible thing but that I ſhould have a friend in <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> although perhaps they dare not openly confeſſe themſelves ſo to bee; yet ſo long as <hi>England</hi> ſtands they will (like to the Preciſians) be read in a ſmall Geneva Print.</p>
+            </sp>
+            <sp>
+               <speaker>Fry.</speaker>
+               <p>What you meane by Geneva Print I cannot tell; but their laſt im<g ref="char:EOLhyphen"/>preſſion I beleeve will be cal'd in at Ty<g ref="char:EOLhyphen"/>burne.</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>Tyburne! what's that?</p>
+            </sp>
+            <sp>
+               <speaker>Fry.</speaker>
+               <p>A place where many of your former friends (the cart being ready to drive away) cryed a pox take the Pope for bringing them thither.</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>What, and have had our Par<g ref="char:EOLhyphen"/>don?</p>
+            </sp>
+            <sp>
+               <speaker>Fry.</speaker>
+               <p>Faith your Pardons there are not worth the third part of a <hi>Peters</hi>-penny: witneſſe your Gun-powder Merchants which cut capers nine foot
+<pb facs="tcp:169396:7"/> high, and never came downe againe till they were cut downe: if their heads could have got to Rome, they would have told you as much; your high di<g ref="char:EOLhyphen"/>velliſh Court of Cardinalls could not keepe them from it.</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>They were happy in their deaths, becauſe they died true Martyrs.</p>
+            </sp>
+            <sp>
+               <speaker>Fry.</speaker>
+               <p>For my part, I deſire no ſuch Martyrdom: if hanging for high trea<g ref="char:EOLhyphen"/>ſon be counted Martyrdom; I beleeve before twenty years be expired, there will be Martyrs enough in <hi>England.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>Puſh, I have a bird or two there which will prevent ſuch matters.</p>
+            </sp>
+            <sp>
+               <speaker>Fry.</speaker>
+               <p>As for one of your Birds, I heare he is flowne, and ſo eſcaped a Cage, and the other would bee gone, if that its wings were not cut.</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>Better flye then dye, inſomuch as in a time of need, one paire of leggs are worth two paire of hands.</p>
+            </sp>
+            <sp>
+               <speaker>Fry.</speaker>
+               <p>But I had almoſt forgot to tell you one thing.</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>What's that?</p>
+            </sp>
+            <sp>
+               <pb facs="tcp:169396:8"/>
+               <speaker>Fri.</speaker>
+               <p>Tis thus, you muſt very ſpeedi<g ref="char:EOLhyphen"/>ly either ſend very loving Letters or very well twiſted ropes into <hi>England.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>To whom there?</p>
+            </sp>
+            <sp>
+               <speaker>Fri.</speaker>
+               <p>To your Ieſuiticall Friends to deſire them with all their co-part<g ref="char:EOLhyphen"/>ners to returne ſpeedily to <hi>Rome.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>But why ſhould I ſend ropes?</p>
+            </sp>
+            <sp>
+               <speaker>Fri.</speaker>
+               <p>To ſave <hi>England</hi> the charges of buying ropes to hang them which tar<g ref="char:EOLhyphen"/>ry behind, and you would doe very well to invite ſome Engliſh Projectors over to you, they can get you more by Tobacco, Sope and Wines, then the beſt Jeſuite in <hi>Rome</hi> by Holy-waters, Peter-pence or Croſſes: but you muſt ſend quickly, leſt Shrove-Tueſday pre<g ref="char:EOLhyphen"/>vent you.</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>I wiſh them no worſe harme then to be with me.</p>
+            </sp>
+            <sp>
+               <speaker>Fri.</speaker>
+               <p>Faith, nor I neither, for I think that would be harme enough in con<g ref="char:EOLhyphen"/>ſcience, they would miſſe <hi>Silla</hi> to fall into <hi>Charibdis:</hi> for I hold it better to be hang'd in <hi>England,</hi> then to live in
+<pb facs="tcp:169396:8"/> 
+                  <hi>Rome,</hi> for Tiburn oft converts ſoules, but <hi>Rome</hi> conſtantly makes them worſe and worſe.</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>For this blaſphemous ſaying (baſe Varlet) thy Soule ſhall never come out of Purgatory, but alwayes remaine there,</p>
+            </sp>
+            <sp>
+               <lg>
+                  <stage>The Fryer ſings.</stage>
+                  <l>Good Pope forbeare your vaine Purgatory,</l>
+                  <l>for I trow never to feare:</l>
+                  <l>There is no ſuch place in Sacred Story;</l>
+                  <l>wherefore for it I will not care:</l>
+                  <l>Heaven and Hell</l>
+                  <l>They'r knowne well,</l>
+                  <l>But <hi>Limbo Patrum,</hi> or Purgatory</l>
+                  <l>Never will bring any ſoule to glory.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Fri.</speaker>
+               <p>How like you this Father <hi>Pope;</hi> you ſee I care little, for your vain fi<g ref="char:EOLhyphen"/>ctious place of Purgatory.</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>The time will come (ſirrah) you ſhall care for it, when as you are bar'd from <hi>S. Peters</hi> Key.</p>
+            </sp>
+            <sp>
+               <speaker>Fr.</speaker>
+               <p>Truly Sir. <hi>I</hi> beleeve it is ſo long
+<pb facs="tcp:169396:9" rendition="simple:additions"/> ſince you opened Heaven gate, that I beleeve your Key is growne ruſty,</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>Ile ſ<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>nd my breath on thee no longer, except it be openly to curſe thee; wherefore fare thee well in the Divels name.</p>
+            </sp>
+            <sp>
+               <speaker>FRYER.</speaker>
+               <l>
+                  <hi>Farewell thou ſincke of wickedneſſe and ſin,</hi>
+               </l>
+               <l>
+                  <hi>When thou art good, then ſurely will begin</hi>
+               </l>
+               <l>
+                  <hi>The whole world for to mend, for which Ile pray,</hi>
+               </l>
+               <l>
+                  <hi>That it may be this yeare, this moneth, this day.</hi>
+               </l>
+            </sp>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
